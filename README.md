@@ -15,4 +15,4 @@ Controls:
 - ⚙️ Engine: [**Clickteam Fusion 2.5**](https://www.clickteam.com/clickteam-fusion-2-5)
 
 ## ❗About this project
-This is my game which I made in 2021 inspired by some tutorial on YouTube. I'm just making this public on GitHub for archiving purposes.
+This is my game which I made back in 2021 inspired by some tutorial on YouTube. I'm just making this public on GitHub for archiving purposes.
